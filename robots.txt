@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:https://slotpanen77.dontkillmyapp.com/sitemap.xml
